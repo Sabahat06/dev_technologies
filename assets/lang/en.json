@@ -1,0 +1,16 @@
+{
+  "welcomeMessageOne": "Welcome to,",
+  "welcomeMessageTwo": "Hapnezz",
+  "languageText": "App Language : ",
+  "remember": "Remember me",
+  "back": "Back",
+  "f0rgotPassword" : "Forgot Password ?",
+  "or" : "Or",
+  "loginMessage" : "Don't have an account ? ",
+  "signUp" : "Sign Up",
+  "signUpTop" : "Sign Up to,",
+  "signUpOne" : "By continuing you agree Hapnezz ",
+  "signUpTwo" : "Term of Use ",
+  "signUpThree" : "and confirm that you have read Hapnezz ",
+  "signUpFour" : "privacy policy "
+}

@@ -1,0 +1,16 @@
+{
+  "welcomeMessageOne": "مرحبا بك في،",
+  "welcomeMessageTwo": "هابينز",
+  "languageText": "لغة التطبيق : ",
+  "remember": "تذكرنى",
+  "back": "الى الخلف",
+  "forgotPassword" : "هل نسيت كلمةالسر؟",
+  "or" : "أو",
+  "loginMessage" : "ليس لديك حساب؟",
+  "signUp" : "اشتراك",
+  "signUpTop" : "التوقيع على،",
+  "signUpOne" : "من خلال الاستمرار فإنك توافق هابينز",
+  "signUpTwo" : "شروط الاستخدام",
+  "signUpThree" : "وتأكيد أنك قد قرأت هابينز",
+  "signUpFour" : "سياسة خاصة"
+}
