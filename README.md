@@ -6,14 +6,26 @@ Dev Technology Task.
 
 ## App Screenshot
 
-<tr>
-  <td>
-    <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%201.jpeg" width=100 height=250/> 
-     <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%202.jpeg" width=100 height=250/> 
-  </td>>
-</tr>
+<table>
+  <tr>
+    <td>First Screen </td>
+     <td>Login Screen Dark Mode</td>
+     <td>Sign up Screen Dark Mode</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%201.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%202.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%203.jpeg" width=270 height=480></td>
+  </tr>
 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%203.jpeg" width=100 height=250/> 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%204.jpeg" width=100 height=250/> 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%205.jpeg" width=100 height=250/> 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%206.jpeg" width=100 height=250/> 
+  <tr>
+    <td>First Screen with Localization</td>
+     <td>Login Screen Light Mode with Localization</td>
+     <td>Sign up Screen Light Mode with Localization</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%204.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%205.jpeg" width=270 height=480></td>
+    <td><img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%206.jpeg" width=270 height=480></td>
+  </tr>
+ </table>
