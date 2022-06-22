@@ -1,16 +1,14 @@
 # dev_technologies_task
 
-A new Flutter project.
+Dev Technology Task.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## App Screenshot
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%201.jpeg" width=100 height=250/> 
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%202.jpeg" width=100 height=250/> 
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%203.jpeg" width=100 height=250/> 
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%204.jpeg" width=100 height=250/> 
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%205.jpeg" width=100 height=250/> 
+<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%206.jpeg" width=100 height=250/> 
