@@ -2,8 +2,6 @@
 
 Dev Technology Task.
 
-## Getting Started
-
 ## App Screenshot
 
 <table>
