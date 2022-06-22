@@ -6,8 +6,13 @@ Dev Technology Task.
 
 ## App Screenshot
 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%201.jpeg" width=100 height=250/> 
-<img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%202.jpeg" width=100 height=250/> 
+<tr>
+  <td>
+    <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%201.jpeg" width=100 height=250/> 
+     <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%202.jpeg" width=100 height=250/> 
+  </td>>
+</tr>
+
 <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%203.jpeg" width=100 height=250/> 
 <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%204.jpeg" width=100 height=250/> 
 <img src="https://github.com/Sabahat06/dev_technologies/blob/master/Image%205.jpeg" width=100 height=250/> 
